@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: c1b8fd04082560c4b9c97442783871db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1125994219232462718
+    second: StewV_Goblincore Sheet_01_0
+  - first:
+      213: 6025513520510765214
+    second: StewV_Goblincore Sheet_01_1
+  - first:
+      213: 2647247391300887421
+    second: StewV_Goblincore Sheet_01_2
+  - first:
+      213: -3982492296676205031
+    second: StewV_Goblincore Sheet_01_3
+  - first:
+      213: -1692025452729928907
+    second: StewV_Goblincore Sheet_01_4
+  - first:
+      213: 7510060224497983818
+    second: StewV_Goblincore Sheet_01_5
+  - first:
+      213: 7592336325886789460
+    second: StewV_Goblincore Sheet_01_6
+  - first:
+      213: 3020171998611346637
+    second: StewV_Goblincore Sheet_01_7
+  - first:
+      213: 3485076769395791334
+    second: StewV_Goblincore Sheet_01_8
+  - first:
+      213: 3197361638032103317
+    second: StewV_Goblincore Sheet_01_9
+  - first:
+      213: -2790252114081281139
+    second: StewV_Goblincore Sheet_01_10
+  - first:
+      213: -8374253426593396321
+    second: StewV_Goblincore Sheet_01_11
+  - first:
+      213: -8645085256154697828
+    second: StewV_Goblincore Sheet_01_12
+  - first:
+      213: 5714303389066341452
+    second: StewV_Goblincore Sheet_01_13
+  - first:
+      213: 5676307131033839850
+    second: StewV_Goblincore Sheet_01_14
+  - first:
+      213: 1723798430762698743
+    second: StewV_Goblincore Sheet_01_15
+  - first:
+      213: 5556458895991433381
+    second: StewV_Goblincore Sheet_01_16
+  - first:
+      213: -5814235040471880008
+    second: StewV_Goblincore Sheet_01_17
+  - first:
+      213: 5730238728387683652
+    second: StewV_Goblincore Sheet_01_18
+  - first:
+      213: -6508997277341090454
+    second: StewV_Goblincore Sheet_01_19
+  - first:
+      213: -1225433493415433383
+    second: StewV_Goblincore Sheet_01_20
+  - first:
+      213: -8318266057125328606
+    second: StewV_Goblincore Sheet_01_21
+  - first:
+      213: 2561176987283453009
+    second: StewV_Goblincore Sheet_01_22
+  - first:
+      213: -5815963472005238177
+    second: StewV_Goblincore Sheet_01_23
+  - first:
+      213: -8617710137409561975
+    second: StewV_Goblincore Sheet_01_24
+  - first:
+      213: -5990043863316944292
+    second: StewV_Goblincore Sheet_01_25
+  - first:
+      213: -1159119129882802857
+    second: StewV_Goblincore Sheet_01_26
+  - first:
+      213: 6149699124066288023
+    second: StewV_Goblincore Sheet_01_27
+  - first:
+      213: -8894298773127040472
+    second: StewV_Goblincore Sheet_01_28
+  - first:
+      213: -1059271312238988289
+    second: StewV_Goblincore Sheet_01_29
+  - first:
+      213: 5049834797057854338
+    second: StewV_Goblincore Sheet_01_30
+  - first:
+      213: -7007582808360248059
+    second: StewV_Goblincore Sheet_01_31
+  - first:
+      213: -807605559145107062
+    second: StewV_Goblincore Sheet_01_32
+  - first:
+      213: 8634446965364520752
+    second: StewV_Goblincore Sheet_01_33
+  - first:
+      213: -9175217298096805938
+    second: StewV_Goblincore Sheet_01_34
+  - first:
+      213: -6701581540693043369
+    second: StewV_Goblincore Sheet_01_35
+  - first:
+      213: 8427079501567199847
+    second: StewV_Goblincore Sheet_01_36
+  - first:
+      213: -4536357786204213314
+    second: StewV_Goblincore Sheet_01_37
+  - first:
+      213: 7818630025432654789
+    second: StewV_Goblincore Sheet_01_38
+  - first:
+      213: 4663681012691485764
+    second: StewV_Goblincore Sheet_01_39
+  - first:
+      213: 9157066383538278869
+    second: StewV_Goblincore Sheet_01_40
+  - first:
+      213: -7190534375410784144
+    second: StewV_Goblincore Sheet_01_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288718f293aaf50f0800000000000000
+      internalID: -1125994219232462718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e988b535f9cee9350800000000000000
+      internalID: 6025513520510765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a1170a79ecb420800000000000000
+      internalID: 2647247391300887421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e92e73b585bb8c0800000000000000
+      internalID: -3982492296676205031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533fc13c0d7b488e0800000000000000
+      internalID: -1692025452729928907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412ef2fbf7193860800000000000000
+      internalID: 7510060224497983818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c6c799a56d5960800000000000000
+      internalID: 7592336325886789460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49fc16e6ec9e920800000000000000
+      internalID: 3020171998611346637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55dc66bda7d5030800000000000000
+      internalID: 3485076769395791334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5975d5d287f4f5c20800000000000000
+      internalID: 3197361638032103317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b07625c780749d0800000000000000
+      internalID: -2790252114081281139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f998dc090eca8cb80800000000000000
+      internalID: -8374253426593396321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9faeed53cc760880800000000000000
+      internalID: -8645085256154697828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c2c1c18a84d4f40800000000000000
+      internalID: 5714303389066341452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e945e24b46ce40800000000000000
+      internalID: 5676307131033839850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78cf92a892ce710800000000000000
+      internalID: 1723798430762698743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e0a03de18c1d40800000000000000
+      internalID: 5556458895991433381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be6b0c2900bf4fa0800000000000000
+      internalID: -5814235040471880008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ebbb63c5e58f40800000000000000
+      internalID: 5730238728387683652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d791066756ba5a0800000000000000
+      internalID: -6508997277341090454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b6b19fab26efee0800000000000000
+      internalID: -1225433493415433383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2290bd5d7159f8c80800000000000000
+      internalID: -8318266057125328606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 67
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547fe576e02b8320800000000000000
+      internalID: 2561176987283453009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52fa78590c894fa0800000000000000
+      internalID: -5815963472005238177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9b62e94eb76880800000000000000
+      internalID: -8617710137409561975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 71
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2cf9c7d61fdca0800000000000000
+      internalID: -5990043863316944292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755c9faea4bf9efe0800000000000000
+      internalID: -1159119129882802857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791808555ce185550800000000000000
+      internalID: 6149699124066288023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f19dc36a119480800000000000000
+      internalID: -8894298773127040472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3bb319a56bc41f0800000000000000
+      internalID: -1059271312238988289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4a052efd941640800000000000000
+      internalID: 5049834797057854338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9d85409010ce90800000000000000
+      internalID: -7007582808360248059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817688d50fcac4f0800000000000000
+      internalID: -807605559145107062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037708a84c7b3d770800000000000000
+      internalID: 8634446965364520752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7abe1da741ba080800000000000000
+      internalID: -9175217298096805938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571da168133ff2a0800000000000000
+      internalID: -6701581540693043369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a83e8782003f470800000000000000
+      internalID: 8427079501567199847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf683bc0ae9b01c0800000000000000
+      internalID: -4536357786204213314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ed10559a518c60800000000000000
+      internalID: 7818630025432654789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c53bfb29b8b040800000000000000
+      internalID: 4663681012691485764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1587f0c5f641f70800000000000000
+      internalID: 9157066383538278869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StewV_Goblincore Sheet_01_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a7682517163c90800000000000000
+      internalID: -7190534375410784144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StewV_Goblincore Sheet_01_0: -1125994219232462718
+      StewV_Goblincore Sheet_01_1: 6025513520510765214
+      StewV_Goblincore Sheet_01_10: -2790252114081281139
+      StewV_Goblincore Sheet_01_11: -8374253426593396321
+      StewV_Goblincore Sheet_01_12: -8645085256154697828
+      StewV_Goblincore Sheet_01_13: 5714303389066341452
+      StewV_Goblincore Sheet_01_14: 5676307131033839850
+      StewV_Goblincore Sheet_01_15: 1723798430762698743
+      StewV_Goblincore Sheet_01_16: 5556458895991433381
+      StewV_Goblincore Sheet_01_17: -5814235040471880008
+      StewV_Goblincore Sheet_01_18: 5730238728387683652
+      StewV_Goblincore Sheet_01_19: -6508997277341090454
+      StewV_Goblincore Sheet_01_2: 2647247391300887421
+      StewV_Goblincore Sheet_01_20: -1225433493415433383
+      StewV_Goblincore Sheet_01_21: -8318266057125328606
+      StewV_Goblincore Sheet_01_22: 2561176987283453009
+      StewV_Goblincore Sheet_01_23: -5815963472005238177
+      StewV_Goblincore Sheet_01_24: -8617710137409561975
+      StewV_Goblincore Sheet_01_25: -5990043863316944292
+      StewV_Goblincore Sheet_01_26: -1159119129882802857
+      StewV_Goblincore Sheet_01_27: 6149699124066288023
+      StewV_Goblincore Sheet_01_28: -8894298773127040472
+      StewV_Goblincore Sheet_01_29: -1059271312238988289
+      StewV_Goblincore Sheet_01_3: -3982492296676205031
+      StewV_Goblincore Sheet_01_30: 5049834797057854338
+      StewV_Goblincore Sheet_01_31: -7007582808360248059
+      StewV_Goblincore Sheet_01_32: -807605559145107062
+      StewV_Goblincore Sheet_01_33: 8634446965364520752
+      StewV_Goblincore Sheet_01_34: -9175217298096805938
+      StewV_Goblincore Sheet_01_35: -6701581540693043369
+      StewV_Goblincore Sheet_01_36: 8427079501567199847
+      StewV_Goblincore Sheet_01_37: -4536357786204213314
+      StewV_Goblincore Sheet_01_38: 7818630025432654789
+      StewV_Goblincore Sheet_01_39: 4663681012691485764
+      StewV_Goblincore Sheet_01_4: -1692025452729928907
+      StewV_Goblincore Sheet_01_40: 9157066383538278869
+      StewV_Goblincore Sheet_01_41: -7190534375410784144
+      StewV_Goblincore Sheet_01_5: 7510060224497983818
+      StewV_Goblincore Sheet_01_6: 7592336325886789460
+      StewV_Goblincore Sheet_01_7: 3020171998611346637
+      StewV_Goblincore Sheet_01_8: 3485076769395791334
+      StewV_Goblincore Sheet_01_9: 3197361638032103317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

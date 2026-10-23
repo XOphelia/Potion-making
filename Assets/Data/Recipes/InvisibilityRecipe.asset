@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc4c2b302b012a479dc47d1eedd664b, type: 3}
+  m_Name: InvisibilityRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeData
+  requiredIngredients:
+  - {fileID: 11400000, guid: 4c0462d81a1ccf844a9cf70a77141152, type: 2}
+  - {fileID: 11400000, guid: 18d997059625d1e40809e350d9d1909f, type: 2}
+  - {fileID: 11400000, guid: f511dcc4a4fb79947a1d1fb9e0d44b2b, type: 2}
+  resultPotion: {fileID: 11400000, guid: a14d03e0d4d33164bbdf60706ee2a1e8, type: 2}
